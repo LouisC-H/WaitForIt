@@ -1,0 +1,95 @@
+<mxfile host="Electron" modified="2024-01-19T15:27:38.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="TL0sLTEmhvuqvAjcc_nQ" version="22.0.0" type="device">
+  <diagram name="Page-1" id="SSZi_dwMfzewZxIz3Idu">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-1" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Text file&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-2" value="Logic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-3" value="Variable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-4" value="Loop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-5" value="Note" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-6" value="Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#FFFFFF;strokeColor=#B09500;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-8" target="hY_I2KLEjYQHNSNVaxup-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-8" value="Input: Text file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-10" value="Read file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-11" value="&amp;nbsp;For each race:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-15" target="hY_I2KLEjYQHNSNVaxup-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-15" value="Parse data into one object per race" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-17" target="hY_I2KLEjYQHNSNVaxup-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-17" value="Create an array for distance per number of seconds held" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-18" value="Multiply by the number of ways to beat the record" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-19" target="hY_I2KLEjYQHNSNVaxup-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-19" value="Rolling multiple" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-23" target="hY_I2KLEjYQHNSNVaxup-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-23" value="Input: Text file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-25" value="Read file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-28" target="hY_I2KLEjYQHNSNVaxup-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-28" value="Parse data into one object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hY_I2KLEjYQHNSNVaxup-30" target="hY_I2KLEjYQHNSNVaxup-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-30" value="Create an array for distance per number of seconds held" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hY_I2KLEjYQHNSNVaxup-31" value="Find number of ways to win" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
